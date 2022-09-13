@@ -8,7 +8,7 @@ response. Cortex.
 This code performs linear SVM decoding analyses of EEG data using either time windows or sample by sample approach.
 
 ## Requirements
-You need LIBSVM (see https://www.csie.ntu.edu.tw/~cjlin/libsvm/, we used version 3.12), and Matlab.
+You need LIBSVM (see https://www.csie.ntu.edu.tw/~cjlin/libsvm/, we used version 3.20), and Matlab.
 
 ## Authors
 The code was originally created by Fraser W. Smith and was adapted to this project by Ines Mares and Fraser W Smith.
