@@ -5,7 +5,7 @@ selectivity – evidence from multi-variate pattern analysis of the neural
 response. Cortex.
 
 ## Description
-This code performs linear SVM decoding analyses of EEG data using either time windows or sample by sample approach.
+This code performs linear SVM decoding analyses of EEG data using either specific time windows or a timepoint by timepoint approach.
 
 ## Requirements
 You need LIBSVM (see https://www.csie.ntu.edu.tw/~cjlin/libsvm/, we used version 3.20), and Matlab.
